@@ -1,1 +1,5 @@
-print("Hello world");
+class Musica{
+    constructor(artista){
+        this.artista = artista;
+    }
+}
